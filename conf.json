@@ -1,0 +1,11 @@
+{
+    "plugins": ["plugins/markdown"],
+    "templates": {
+        "default": {
+            "includeDate": false
+        }
+    },
+    "opts": {
+        "destination": "../docs/"
+    }
+}
